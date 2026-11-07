@@ -188,7 +188,7 @@ python scripts/graphiques.py
 | --- | --- |
 | Document technique : dictionnaire, schéma, code SQL, base chargée | [`docs/1_document_technique.pdf`](docs/1_document_technique.pdf) |
 | Liste complète des analyses et résultats | [`docs/2_liste_des_analyses.pdf`](docs/2_liste_des_analyses.pdf) |
-| Présentation de la méthodologie (10 slides) | [`docs/3_methodologie.pdf`](docs/3_methodologie.pdf) |
+| Présentation de la méthodologie (10 slides) | [`docs/3_methodologie.pdf`](docs/3_presentation_slides.pdf) |
 
 ## Structure du dépôt
 
