@@ -213,6 +213,6 @@ projet-sql-assurance-habitation/
 
 ## Auteur
 
-**Zid Ahmed Moundji** · [LinkedIn](https://fr.linkedin.com/in/ahmed-moundji-zid-027643207) ·
+**Zid Ahmed Moundji** · [LinkedIn](https://www.linkedin.com/in/VOTRE-PROFIL) · [GitHub](https://github.com/VOTRE-PSEUDO)
 
 *Les données sources proviennent du projet pédagogique OpenClassrooms et du référentiel géographique de data.gouv.fr. Elles ne sont pas redistribuées dans ce dépôt.*
